@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Gabriel Feronelly... Ou Gabstuxo 😎 👋
 - 🔭 Analista de TI no setor de homologação e gestão de softwares na Sonda IT atuando diretamente no time do HIAE!
 - 🌱 Estou aprendendo Java Script e CSS com objetivo de obter uma formação full stack
-- 🟩 Experiencia em Moderação ADM e desenvolvimento de ambientes para servidores
 - ⚡ Fun fact: De faculdade de marketing ate curso de praticas comerciais no setor administrativo... Aqui estou eu na programação
 
 <div style="display: inline_block"><br>
@@ -17,7 +16,6 @@
   ##
  
 <div> 
-  <a href="https://instagram.com/gabriel.ide" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabriel.feronelly.info@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabrielferonelly" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
