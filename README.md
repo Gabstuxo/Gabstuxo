@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Gabriel Feronelly... Ou Gabstuxo 😎 👋
 - 🔭 Analista de TI no setor de homologação e gestão de softwares na Sonda IT atuando diretamente no time do HIAE!
-- 📚 Estudante de Análise e desenvolvimento de Sistemas
+- 📚 Estudante de Engenharia da Computação
 - 🌱 Estou aprendendo Java Script e CSS com objetivo de obter uma formação full stack
 - ⚡ Fun fact: Meu pai previu meu futuro aos 12 anos... Só me levou 11 anos para aceitar que eu deveria aprender  programação! 😅
 - 🕰️ Aprendendo desde 17 de novembro de 2025
