@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Gabriel Feronelly... Ou Gabstuxo 😎 👋
-- 🔭 Analista de TI no setor de homologação e gestão de softwares e governança de TI.
+- 🔭 Analista de TI no setor de homologação, gestão de softwares e governança de TI.
 - 📚 Estudante de Engenharia da Software
 - 🌱 Estou aprendendo com objetivo de obter uma formação full stack
 - 🕰️ Aprendendo desde 17 de novembro de 2025
