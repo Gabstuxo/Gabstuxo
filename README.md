@@ -1,8 +1,11 @@
 ## Olá! Eu sou o Gabriel Feronelly... Ou Gabstuxo 😎 👋
-- 🔭 Analista de TI no setor de homologação, gestão de softwares e governança de TI.
-- 📚 Estudante de Engenharia da Software
+
+- 🖥️ Analista de TI | Homologação de Software • Gestão de Acessos & Identidade • Governança de Licenças & TI
+- 🔐 IAM/RBAC • SAM • ITIL • Active Directory • Azure AD • Microsoft 365 • Suporte N1/N2
+- 📚 Estudante de Engenharia de Software
 - 🌱 Estou aprendendo com objetivo de obter uma formação full stack
 - 🕰️ Aprendendo desde 17 de novembro de 2025
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -11,13 +14,12 @@
   <img align="center" alt="Gabriel-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Gabriel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Gabriel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-
+  <img align="center" alt="Gabriel-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
-  
-  ##
- 
+
+##
+
 <div> 
-  <a href = "mailto:gabriel.feronelly.info@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:gabriel.feronelly.info@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabrielferonelly" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
