@@ -6,7 +6,7 @@
 - 📚 Estudante de Engenharia de Software
 - 🌱 Atualmente aprendendo: PHP, Python, Node.js e C
 - 🕰️ Aprendendo desde 17 de novembro de 2025 com o Objetivo: me tornar Systems Developer
-- 🐨 Co-fundador da Koarah Tech Software Engineering
+- 🐨 Conheça meus projetos em github.com/gabstuxo
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-PHP" height="40" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
