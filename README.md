@@ -4,7 +4,7 @@
 - 💻 Focado em Suporte, infra, melhorias, Desenvolvimento Back-end e Sistemas
 - 🔐 IAM/RBAC • SAM • ITIL • Active Directory • Azure AD • Microsoft 365 • Suporte N1/N2
 - 📚 Estudante de Engenharia de Software
-- 🌱 Atualmente aprendendo: PHP, Python, Node.js e C
+- 🌱 Atualmente aprendendo: GO, PHP, Python, Node.js e C
 - 🕰️ Aprendendo desde 17 de novembro de 2025 com o Objetivo: me tornar Systems Developer
   
 
