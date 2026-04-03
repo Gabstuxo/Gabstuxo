@@ -6,10 +6,6 @@
 - 📚 Estudante de Engenharia de Software
 - 🌱 Atualmente aprendendo: GO, PHP, Python, Node.js e C
 - 🕰️ Aprendendo desde 17 de novembro de 2025 com o Objetivo: me tornar Systems Developer
-
-
-  ![dancing-gopher](https://github.com/user-attachments/assets/1465ee2e-0eca-4a4f-9b64-cadb40e0c3f8)
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img align="center" alt="Gabriel-PHP" height="40" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
@@ -22,6 +18,9 @@
   <img align="center" alt="Gabriel-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Gabriel-Postman" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
 </div>
+
+ ![dancing-gopher](https://github.com/user-attachments/assets/1465ee2e-0eca-4a4f-9b64-cadb40e0c3f8)
+
   
 </div>
 
