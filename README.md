@@ -6,7 +6,9 @@
 - 📚 Estudante de Engenharia de Software
 - 🌱 Atualmente aprendendo: GO, PHP, Python, Node.js e C
 - 🕰️ Aprendendo desde 17 de novembro de 2025 com o Objetivo: me tornar Systems Developer
-  
+
+
+  ![dancing-gopher](https://github.com/user-attachments/assets/1465ee2e-0eca-4a4f-9b64-cadb40e0c3f8)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
@@ -15,7 +17,6 @@
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gabriel-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Gabriel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Gabriel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Gabriel-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
@@ -25,6 +26,7 @@
 </div>
 
 ##
+
 
 <div> 
   <a href="mailto:gabriel.feronelly.info@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
