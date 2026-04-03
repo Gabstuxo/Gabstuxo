@@ -2,7 +2,7 @@
 
 - 🖥️ Analista de TI | Homologação de Software • Gestão de Acessos & Identidade • Governança de Licenças
 - 💻 Focado em Suporte, infra, melhorias, Desenvolvimento Back-end e Sistemas
-- 🔐 IAM/RBAC • SAM • ITIL • Active Directory • Azure AD • Microsoft 365 • Suporte N1/N2
+- 🔐 IAM/RBAC • SAM • ITIL • Active Directory • Azure AD • Microsoft 365 • Suporte N1/N2 - TOTVS - Protheus
 - 📚 Estudante de Engenharia de Software
 - 🌱 Atualmente aprendendo: GO, PHP, Python, Node.js e C
 - 🕰️ Aprendendo desde 17 de novembro de 2025 com o Objetivo: me tornar Systems Developer
