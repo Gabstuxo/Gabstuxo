@@ -1,8 +1,9 @@
 ## Olá! Eu sou o Gabriel Feronelly... Ou Gabstuxo 😎 👋
-- 🖥️ Analista de TI | Homologação de Software • Gestão de Acessos & Identidade • Governança de Licenças
-- 💻 Focado em Suporte, infra, melhorias, Desenvolvimento Back-end e Sistemas
+- 🖥️ Analista de TI | Homologação de Software • Gestão de Acessos & Identidade • Governança de Licenças & Ativos
+- 🤝 Gerenciamento de Fornecedores • Melhoria de Processos • Governança de Licenças e Ativos de TI
+- 💻 Focado em Suporte, Infra, Melhorias, Desenvolvimento Back-end e Sistemas
 - 🔐 IAM/RBAC • SAM • ITIL • Active Directory • Azure AD • Microsoft 365 • Suporte N1/N2 - TOTVS - Protheus
-- 📚 Estudante de Engenharia de Software e Ciência da computação
+- 📚 Estudante de Engenharia de Software e Ciência da Computação
 - 🌱 Atualmente aprendendo: GO, PHP, Python, Node.js e C
 - 🕰️ Aprendendo desde 17 de novembro de 2025 com o Objetivo: me tornar Systems Developer
 
